@@ -1,5 +1,5 @@
 /**
- * angular-cookie-law - @version v0.2.2 - @author Palmabit Srl<hello@palmabit.com>
+ * angular-cookie-law - @version v0.2.3 - @author Palmabit Srl<hello@palmabit.com>
  */
 .cl-banner {
   background: #000000;
@@ -12,7 +12,7 @@
   z-index: 10000;
 
   position: fixed;
-  top: 0;
+  bottom: 0;
   left: 0;
   width: 100%;
 }
